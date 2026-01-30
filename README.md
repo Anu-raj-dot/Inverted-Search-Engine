@@ -141,7 +141,7 @@ INFO : THE WORD 'NAME' is present in 2 files
 
 ---
 
-## DEMO
+## Sample Execution
 
 <img width="1920" height="1080" alt="inverted_0" src="https://github.com/user-attachments/assets/0013897b-225b-49bb-8eda-314ce722f0b2" />
 <img width="1920" height="1080" alt="inverted_1" src="https://github.com/user-attachments/assets/e7720ace-a3be-495a-9d6a-8bb822d1d85e" />
